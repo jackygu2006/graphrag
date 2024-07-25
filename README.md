@@ -182,6 +182,13 @@ global_search:
 * <input type="checkbox" name="option" value="option1">  支持豆包平台上的大模型以及豆包的文本向量
 * <input type="checkbox" name="option" value="option1">  支持ollama本地大模型
 
+## 使用Chainlit的聊天UI
+
+1- 安装[chainlist](https://docs.chainlit.io/get-started/overview)
+
+2- 在项目根目录下添加`app.py`
+
+3- 运行：`chainlit run app.py -w`
 
 ## 以下是GraphRAG官方文档 👇👇👇
 # GraphRAG

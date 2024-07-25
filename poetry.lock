@@ -2366,17 +2366,17 @@ files = [
 
 [[package]]
 name = "lancedb"
-version = "0.10.0"
+version = "0.10.2"
 description = "lancedb"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "lancedb-0.10.0-cp38-abi3-macosx_10_15_x86_64.whl", hash = "sha256:e7b922db07d3186867c622af8bbd6fd0306e11fcdec57bdd56d0da303a51a7ad"},
-    {file = "lancedb-0.10.0-cp38-abi3-macosx_11_0_arm64.whl", hash = "sha256:f390ebe0f145612503f50d6158a7543c7eed8ad9d7a4d560aff1f1c572c3b4ea"},
-    {file = "lancedb-0.10.0-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:cfa5b19ef009fd96e16417363af52a80fd53b9fa62c322e7020c6a2e154714b7"},
-    {file = "lancedb-0.10.0-cp38-abi3-manylinux_2_24_aarch64.whl", hash = "sha256:e1eb075528f1a9dccb37d490b6bf745ed3afa2decb28c3846490c04bc80dc958"},
-    {file = "lancedb-0.10.0-cp38-abi3-manylinux_2_28_x86_64.whl", hash = "sha256:828ff34ed3d81387516e4c8356c5f960ad2c6132a1d5e2cee152f359ec9a40c9"},
-    {file = "lancedb-0.10.0-cp38-abi3-win_amd64.whl", hash = "sha256:c0f7eec52938ea00ffad80bdeaa7ad398d90e0b47691c86bc9baaa604493e1f0"},
+    {file = "lancedb-0.10.2-cp38-abi3-macosx_10_15_x86_64.whl", hash = "sha256:ae148b4cba151ec464c607447c3afeab0b0d55d8ebf72cf1dd6f58fa00278771"},
+    {file = "lancedb-0.10.2-cp38-abi3-macosx_11_0_arm64.whl", hash = "sha256:c808755e217e4a6520bdebe05297b8a7aada231497b8304132610a60fb72ddc9"},
+    {file = "lancedb-0.10.2-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:fcb8efd9d8341870915e8495cf383cb4bf2b69dc41ba8921a271bad8b3225d25"},
+    {file = "lancedb-0.10.2-cp38-abi3-manylinux_2_24_aarch64.whl", hash = "sha256:ef5d384cc9ca200e659a676cf4932d447056c1a92133aec4af27ddab833f68cc"},
+    {file = "lancedb-0.10.2-cp38-abi3-manylinux_2_28_x86_64.whl", hash = "sha256:6aa7427d74c5ce8f5e44a4f6b736f201fabc15f4251a89fa65ee94a00c7124e7"},
+    {file = "lancedb-0.10.2-cp38-abi3-win_amd64.whl", hash = "sha256:40c8ec4e407624ab2ea636d54cb0d5a72ec35dfd9421fb1b45bd10827c2c474d"},
 ]
 
 [package.dependencies]
@@ -5532,4 +5532,4 @@ test = ["big-O", "importlib-resources", "jaraco.functools", "jaraco.itertools", 
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<3.13"
-content-hash = "c4836ccb207cfe1350e7ef3e1c330305ff1877846e7fcd984571d2542d2bcaa6"
+content-hash = "ea8dae2f61633db6440a7b3fade60e3fe2c7ab3778518011c127bcb686192119"
